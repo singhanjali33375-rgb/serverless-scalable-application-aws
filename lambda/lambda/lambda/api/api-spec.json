@@ -1,0 +1,5 @@
+{
+  "name": "Serverless Scalable API",
+  "method": "POST",
+  "endpoint": "/process"
+}
